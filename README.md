@@ -7,13 +7,13 @@ The movie booked by the user will be stored in database and is retrived and show
 # Link to website -> BookMyShow
 
 Overall UI of the app.
-App Screenshot
+file:///C:/Users/HP/Pictures/Screenshots/Screenshot%20(121).png
 
 Getting confirmations from server.
-App Screenshot
+file:///C:/Users/HP/Pictures/Screenshots/Screenshot%20(122).png
 
 Information about previous booking details.
-App screenshot
+file:///C:/Users/HP/Pictures/Screenshots/Screenshot%20(123).png
 
 # Technologies that are used.
 
